@@ -1,12 +1,18 @@
 ---
 layout: page
-title: Alison & Guillaume 2020
-subtitle: Mawage. Mawage is what bwings us togezzer today.
+title: Alison & Guillaume
+subtitle: 16 May 2020<br>Le Château du Pin<br>Morancé, France
 use-site-title: true
-bigimg: /img/princessbride.jpg
+bigimg: /img/venue.jpg
 ---
 
 <div class="posts-list">
+<p>
+Mark your calendars&mdash;our wedding is set for 16 May 2020 in Morancé, France. More info to come!
+</p>
+<p>
+Retenez cette date&nbsp;! Notre mariage est prévu pour le 16 mai 2020 à Morancé, en France. Plus d'infos à venir&nbsp;!
+</p>
   {% for post in paginator.posts %}
   <article class="post-preview">
     <a href="{{ post.url | relative_url }}">
