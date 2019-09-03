@@ -7,7 +7,7 @@ title: Alison & Guillaume
 description: Alison & Guillaume 2020
 
 # Build settings
-#theme: beautiful-jekyll-theme
+theme: beautiful-jekyll-theme
 remote_theme: daattali/beautiful-jekyll
 
 # --- Local development options ---
@@ -16,9 +16,6 @@ remote_theme: daattali/beautiful-jekyll
 
 # url is the the website domain URL without a trailing slash
 #url: "https://example.com"
-
-# baseurl should be an empty string
-baseurl: ""
 
 # --- Navigation bar options --- #
 
