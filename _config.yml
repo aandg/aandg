@@ -16,7 +16,7 @@ remote_theme: daattali/beautiful-jekyll
 
 # url is the the website domain URL without a trailing slash
 url: "https://aandg.github.io"
-base_url: "aandg"
+base_url: "/aandg"
 
 # --- Navigation bar options --- #
 
