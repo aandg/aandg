@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Alison & Guillaume
-subtitle: 16 May 2020<br>Le Château du Pin<br>Morancé, France
+subtitle: 16 May 2020<br>Le Château du Pin<br>Lyon, France
 use-site-title: true
 bigimg: /img/venue.jpg
 ---
