@@ -24,8 +24,8 @@ base_url: "/aandg"
 navbar-links:
   #Home: "https://aandg.github.io/"
   English:
-    - Travel: "https://aandg.github.io/travel"
     - Ceremony & Reception: "https://aandg.github.io/ceremony-and-reception/"
+    - Travel: "https://aandg.github.io/travel"
     - Accommodations: "https://aandg.github.io/accommodations"
   #Français: "https://aandg.github.io/francais"
 
